@@ -10,4 +10,31 @@
  */
 public class FMModel {
 
+    private Foilermaker controller;
+    private String username;
+    private String password;
+    private String gameKey;
+    private int numOfParticipants;
+    private String[] participants;
+    private String[] words;
+
+    public FMModel(Foilermaker controller) {
+        this.controller = controller;
+    }
+
+    public String getUsername() {
+        return this.username;
+    }
+
+    public String getPassword() {
+        return this.password;
+    }
+
+    public String getGameKey() {
+        return this.gameKey;
+    }
+
+    public int getNumOfParticipants() {
+        return this.numOfParticipants;
+    }
 }

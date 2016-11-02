@@ -4,6 +4,7 @@
  *
  */
 public class FoilMakerNetworkProtocol {
+
     public static enum MSG_TYPE {
         //Client messages to server
 
