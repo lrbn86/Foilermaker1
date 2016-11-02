@@ -8,7 +8,7 @@ import java.awt.event.ActionEvent;
  *
  * Viewer class that handles the GUI.
  *
- * @author Brandon Nguyen, nguye299@purdue.edu, Lab Section G06
+ * @author Brandon Nguyen & Daniel Acevedo, nguye299@purdue.edu & acevedd@purdue.edu, Lab Section G06
  *
  * @version October 29, 2016
  *

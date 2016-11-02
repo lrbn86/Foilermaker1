@@ -9,7 +9,7 @@ import java.net.Socket;
  *
  * Controller class that mediates access to the model and the view.
  *
- * @author Brandon Nguyen, nguye299@purdue.edu, Lab Section G06
+ * @author Brandon Nguyen & Daniel Acevedo, nguye299@purdue.edu & acevedd@purdue.edu, Lab Section G06
  *
  * @version October 29, 2016
  *
